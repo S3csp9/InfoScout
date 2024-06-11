@@ -29,9 +29,7 @@ This tool is designed to streamline the often time-consuming information-gatheri
 
 # Main Features 
 - Create a dated folder with recon notes
-- Grab subdomains using:
-      * Sublist3tr, Subscraper, Assetfinder, Certspotter, Crt.sh, Subbrute
-      * Dns bruteforcing using massdns
+- Grab subdomains using: Sublist3tr, Subscraper, Assetfinder, Certspotter, Crt.sh, Subbrute
 - Find any CNAME records pointing to unused cloud services like aws
 - Grab a screenshots of responsive hosts 
 - Scrape wayback for data:
